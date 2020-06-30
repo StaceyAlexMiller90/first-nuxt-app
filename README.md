@@ -1,3 +1,5 @@
+Practice using Nuxt
+
 # first-nuxt-app
 
 ## Build Setup
