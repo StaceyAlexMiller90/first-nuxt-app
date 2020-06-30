@@ -34,6 +34,11 @@ export default Vue.extend({
   components: {
     PostPreview,
   },
+  data() {
+    return {
+      loadedPosts: [],
+    }
+  },
 })
 </script>
 
